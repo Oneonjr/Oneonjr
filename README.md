@@ -1,4 +1,3 @@
-
 ### Olá eu sou o Oneon Junior ✌️ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneonjunior/)
@@ -22,9 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oneonjr&langs_count=4)](https://github.com/Oneonjr/Oneonjr/blob/main/README.md)
 
-![Snakeanimation](https://github.com/Oneonjr/Oneonjr/blob/output/github-contribution-grid-snake.svg
 
-
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
