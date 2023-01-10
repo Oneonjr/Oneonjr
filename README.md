@@ -40,8 +40,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oneonjr&langs_count=4)](https://github.com/Oneonjr/Oneonjr/blob/main/README.md)
 
-<!--
-![Snake animation](https://github.com/Oneonjr/Oneonjr/blob/output/github-contribution-grid-snake.svg)-->
+
+![Snake animation](https://github.com/Oneonjr/Oneonjr/blob/output/github-contribution-grid-snake.svg)
 
 
 
