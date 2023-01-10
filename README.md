@@ -42,6 +42,6 @@
 
 <!--
 ![Snake animation](https://github.com/Oneonjr/Oneonjr/blob/output/github-contribution-grid-snake.svg)-->
-![snake gif](https://github.com/Oneonjr/Oneonjr/blob/output/github-contribution-grid-snake.svg)
+
 
 
