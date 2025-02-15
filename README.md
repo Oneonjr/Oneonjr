@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="194" src="https://instagram.fssa7-1.fna.fbcdn.net/v/t51.2885-19/124401902_1035881440158802_3226814479858813146_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fssa7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Hj4tunge7T8Q7kNvgHU7irk&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYD0-2ZrrCpjkYcC2rlA7HpUOQoCaXLhf3l6N8ywKIqafg&oe=66C3E464&_nc_sid=8f1549"  />
-</div>
+
 
 ###
 
