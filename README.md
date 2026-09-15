@@ -61,8 +61,8 @@ Sou Desenvolvedor Full-Stack e Arquiteto de Software residente na Bahia, focado 
 ### 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oneonjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneonjr&layout=compact&langs_count=5&theme=dracula&locale=pt-br" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oneonjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=oneonjr&layout=compact&langs_count=5&theme=dracula&locale=pt-br" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
