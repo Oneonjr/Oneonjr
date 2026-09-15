@@ -1,74 +1,76 @@
-
-
-###
-
-<h1 align="center">Olá, Sou o Oneon Junior</h1>
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Olá,%20sou%20o%20Oneon%20Junior!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Desenvolvedor%20Full-Stack%20%7C%20Entusiasta%20de%20IA&descAlignY=55&descAlign=50&color=000000,2496ED,4E56A6" />
+</div>
 
 <div align="center">
-  <a href="https://wa.me/557184811700" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/oneonjunior/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@oneonjunior" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/oneonjunior/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <a href="https://wa.me/557184811700" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oneonjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@oneonjunior" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/oneonjunior/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-###
+<br>
 
-<h2 align="left">Tecnologias</h2>
+### 👨‍💻 Sobre mim
 
-###
+Sou Desenvolvedor Full-Stack e Arquiteto de Software residente na Bahia, focado em desenhar infraestruturas robustas, escaláveis e integradas com Inteligência Artificial. Atualmente atuo como Servidor Público na **ALBA** e sou Co-fundador da **Neocris LTDA**, uma empresa de tecnologia voltada para inovação e automação.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-</div>
+- 🚀 **Foco Atual:** Arquitetura de sistemas utilizando o ecossistema Laravel (TALL Stack e FilamentPHP), contêineres Docker e bancos de dados relacionais.
+- 🧠 **IA & Dados:** Explorando a integração de **IA Local** nos sistemas (Ollama, Qwen, Llama 3) e bancos de dados vetoriais (pgvector/PostGIS).
+- 💼 **Projetos em Destaque:**
+  - **Neocore:** Um CRM escalável com integração à API do WhatsApp (Evolution API) e rastreamento de ordens de serviço.
+  - **NeonMind:** Um sistema de "Segundo Cérebro" para gestão de dados pessoais, rastreamento de tarefas e automação com análise de IA.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+- ⚡ **Curiosidades:** Quando não estou codando no meu ambiente WSL2/Ubuntu, você provavelmente me encontrará jogando *Crimson Desert* ou lembrando das rodas de *Capoeira*.
 
-###
+---
 
-<p align="right">Entre outras ...</p>
-
-###
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneonjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=oneonjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=oneonjr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <h4>Backend & Arquitetura</h4>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
-###
+<div align="center">
+  <h4>Frontend (TALL Stack & Mais)</h4>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
 
-<img src="https://raw.githubusercontent.com/oneonjr/oneonjr/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h4>Banco de Dados & IA</h4>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
+</div>
 
-###
+<br>
+
+---
+
+### 📊 Estatísticas de Desenvolvimento
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oneonjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&bg_color=0D1117&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneonjr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=0D1117&order=2" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=oneonjr&locale=pt-br&mode=daily&theme=dracula&hide_border=true&background=0D1117&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oneonjr/oneonjr/output/snake.svg" alt="Snake animation" />
+</div>
