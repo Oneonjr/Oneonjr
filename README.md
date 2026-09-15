@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Olá,%20sou%20o%20Oneon%20Junior!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Desenvolvedor%20Full-Stack%20%7C%20Entusiasta%20de%20IA&descAlignY=55&descAlign=50&color=000000,2496ED,4E56A6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Olá,%20sou%20o%20Oneon%20Junior!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Arquiteto%20de%20Software%20%7C%20Desenvolvedor%20Full-Stack%20%7C%20Entusiasta%20de%20IA&descAlignY=55&descAlign=50&color=000000,2496ED,4E56A6&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -61,12 +61,12 @@ Sou Desenvolvedor Full-Stack e Arquiteto de Software residente na Bahia, focado 
 ### 📊 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oneonjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&bg_color=0D1117&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneonjr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=0D1117&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oneonjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oneonjr&layout=compact&langs_count=5&theme=dracula&locale=pt-br" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oneonjr&locale=pt-br&mode=daily&theme=dracula&hide_border=true&background=0D1117&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=oneonjr&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
